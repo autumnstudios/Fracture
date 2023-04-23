@@ -9,4 +9,9 @@ Use - fracture.fractureviewer
 
 
 
-# This plugin relies on my API Record, if you're a developer and you're looking for a API making your dev experience much faster. Think about using Record
+# This plugin relies on my API Record, if you're a developer and you're looking for a API making your dev experience much faster. Think about using Record in your next project.
+
+
+
+
+[](https://bstats.org/signatures/bukkit/BotMaker.svg)
