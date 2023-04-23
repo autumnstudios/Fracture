@@ -14,4 +14,4 @@ Use - fracture.fractureviewer
 
 
 
-[](https://bstats.org/signatures/bukkit/BotMaker.svg)
+![A Graph!](https://bstats.org/signatures/bukkit/Fracture.svg)
