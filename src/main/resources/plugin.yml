@@ -1,0 +1,10 @@
+name: Fracture
+version: '${project.version}'
+main: com.autumnstudios.plugins.fracture.Fracture
+api-version: 1.19
+description: The best voting system out there!
+depend:
+  - Record
+
+commands:
+  fractureviewer:
